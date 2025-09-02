@@ -37,7 +37,7 @@
 | [Adob全家桶](https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/iidc87wfhzm7vw7p) | 🛒Adob全家桶破解版，Ps，Pr，Ae等，当然这仅供学习使用，支持正版软件 | ✅ |
 | [Switch520](https://www.gamer520.com/) | 🎮游戏资源白嫖网站，当然有能力还是支持正版游戏 | ✅ |
 | [草料二维码生成器](https://cli.im/) | 🐎二维码生成网站 | ✅ |
-| [Zlibrary官网 - Z-Library 是一个在线图书馆，旨在通过提供获取图书来提高全球教育水平。我们认为，在人类历史上，书籍一直是宝贵的知识来源，因此我们的目标是为有需要的人提供免费获取文学作品的机会 | Tbox导航](https://www.tboxn.com/sites/320.html) | 📚Z-Library 是一个在线图书馆，内可找诸多电子书籍，小说教材均有 | ✅ |
+| (https://www.tboxn.com/sites/320.html) | | 📚Z-Library 是一个在线图书馆，内可找诸多电子书籍，小说教材均有 | ✅ |
 | [GitHub 文件加速代理 - 快速访问 GitHub 文件](https://gh-proxy.com/) | 📈GitHub文件下载加速网站，如果在GitHub下载文件缓慢可以复制链接到这个网站就可以加速下载 | ✅ |
 | [101围棋网](https://www.101weiqi.cn/) | ⚫想学围棋吗？可以来这里试试 | ✅ |
 | [GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers](https://www.geogebra.org/) | ➕可绘制函数图像，内有几何计算器，3D计算器的综合数学工具网站 | ✅ |
