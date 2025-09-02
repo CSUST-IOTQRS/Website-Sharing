@@ -31,8 +31,8 @@
 
 | 网址 | 简述 | 是否可用 |
 | --- | --- | --- |
-| https://github.com/ | 🐙 代码存放仓库，优质开源项目共享地 | ✅ |
-| https://lichess.org/practice | ♟️国际象棋爱好者一定会喜欢的网站，有在线对弈，残局破解等诸多内容 | ✅ |
+| [GitHub](https://github.com/) | 🐙 代码存放仓库，优质开源项目共享地 | ✅ |
+| [Chess](https://lichess.org/practice) | ♟️国际象棋爱好者一定会喜欢的网站，有在线对弈，残局破解等诸多内容 | ✅ |
 | [HLTV.org - The home of competitive Counter-Strike](https://www.hltv.org/ranking/teams/2023/december/11/details/7020) | 🔫CS社区优质媒体 | ✅ |
 | [Adob全家桶](https://www.yuque.com/yihulaojiu-gsfg9/zz2qv5/iidc87wfhzm7vw7p) | 🛒Adob全家桶破解版，Ps，Pr，Ae等，当然这仅供学习使用，支持正版软件 | ✅ |
 | [Switch520](https://www.gamer520.com/) | 🎮游戏资源白嫖网站，当然有能力还是支持正版游戏 | ✅ |
@@ -40,10 +40,8 @@
 | [Z-Library](https://www.tboxn.com/sites/320.html) | 📚Z-Library 是一个在线图书馆，内可找诸多电子书籍，小说教材均有 | ✅ |
 | [GitHub 文件加速代理 - 快速访问 GitHub 文件](https://gh-proxy.com/) | 📈GitHub文件下载加速网站，如果在GitHub下载文件缓慢可以复制链接到这个网站就可以加速下载 | ✅ |
 | [101围棋网](https://www.101weiqi.cn/) | ⚫想学围棋吗？可以来这里试试 | ✅ |
-| [GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers](https://www.geogebra.org/) | ➕可绘制函数图像，内有几何计算器，3D计算器的综合数学工具网站 | ✅ |
+| [GeoGebra](https://www.geogebra.org/) | ➕可绘制函数图像，内有几何计算器，3D计算器的综合数学工具网站 | ✅ |
 | [英语真题在线官方网站 - 按试卷排版设计](https://zhenti.burningvocabulary.cn/) | 🐶英语四六级，考研英语真题以及答案，还支持在线翻译试卷单词 | ✅ |
-| [串口设置](https://serial.keysking.com/#/) | 🪫在线网页版串口助手 | ✅ |
+| [串口调试网站](https://serial.keysking.com/#/) | 🪫在线网页版串口助手 | ✅ |
 | [Wokwi - World's most advanced ESP32 Simulator](https://wokwi.com/) | 👓单片机代码仿真平台，仅适合初学者玩玩 | ✅ |
 | [小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario](http://ending.fun/) | 🎮童年游戏都在这！！！ | ✅ |
-|  |  |  |
-|  |  |  |
