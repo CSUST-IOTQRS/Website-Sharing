@@ -45,3 +45,5 @@
 | [串口调试网站](https://serial.keysking.com/#/) | 🪫在线网页版串口助手 | ✅ |
 | [Wokwi - World's most advanced ESP32 Simulator](https://wokwi.com/) | 👓单片机代码仿真平台，仅适合初学者玩玩 | ✅ |
 | [小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario](http://ending.fun/) | 🎮童年游戏都在这！！！ | ✅ |
+| [OI Wiki](https://oi-wiki.org/) | OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛知识整合站点，大家可以在这里获取与竞赛相关的、有趣又实用的知识。| ✅ |
+| [Graph Editor](https://csacademy.com/app/graph_editor/) | 可以根据所给点和边，快速创建图| ✅ |
